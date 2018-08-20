@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YouChoose</string>
+    ><string name="Login_activity_Title"> YouChoose!" </string>
+    <string name="Login_Button">Login</string>
+</resources>

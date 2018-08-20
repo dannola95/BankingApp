@@ -1,0 +1,47 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   YouChoose/.gitignore
+#	new file:   YouChoose/.idea/caches/build_file_checksums.ser
+#	new file:   YouChoose/.idea/codeStyles/Project.xml
+#	new file:   YouChoose/.idea/gradle.xml
+#	new file:   YouChoose/.idea/misc.xml
+#	new file:   YouChoose/.idea/runConfigurations.xml
+#	new file:   YouChoose/app/.gitignore
+#	new file:   YouChoose/app/build.gradle
+#	new file:   YouChoose/app/proguard-rules.pro
+#	new file:   YouChoose/app/src/androidTest/java/youchoose/youchoose/ExampleInstrumentedTest.java
+#	new file:   YouChoose/app/src/main/AndroidManifest.xml
+#	new file:   YouChoose/app/src/main/java/youchoose/youchoose/Login.java
+#	new file:   YouChoose/app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+#	new file:   YouChoose/app/src/main/res/drawable/ic_launcher_background.xml
+#	new file:   YouChoose/app/src/main/res/layout/activity_login.xml
+#	new file:   YouChoose/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+#	new file:   YouChoose/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+#	new file:   YouChoose/app/src/main/res/mipmap-hdpi/ic_launcher.png
+#	new file:   YouChoose/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+#	new file:   YouChoose/app/src/main/res/mipmap-mdpi/ic_launcher.png
+#	new file:   YouChoose/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+#	new file:   YouChoose/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+#	new file:   YouChoose/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+#	new file:   YouChoose/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+#	new file:   YouChoose/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+#	new file:   YouChoose/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+#	new file:   YouChoose/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+#	new file:   YouChoose/app/src/main/res/values/colors.xml
+#	new file:   YouChoose/app/src/main/res/values/strings.xml
+#	new file:   YouChoose/app/src/main/res/values/styles.xml
+#	new file:   YouChoose/app/src/test/java/youchoose/youchoose/ExampleUnitTest.java
+#	new file:   YouChoose/build.gradle
+#	new file:   YouChoose/gradle.properties
+#	new file:   YouChoose/gradle/wrapper/gradle-wrapper.jar
+#	new file:   YouChoose/gradle/wrapper/gradle-wrapper.properties
+#	new file:   YouChoose/gradlew
+#	new file:   YouChoose/gradlew.bat
+#	new file:   YouChoose/settings.gradle
+#
